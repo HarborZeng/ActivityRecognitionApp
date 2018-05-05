@@ -1,1 +1,1 @@
-[](https://github.com/HarborZeng/ActivityRecognitionApp/blob/master/screen.jpg)
+![截图效果](https://github.com/HarborZeng/ActivityRecognitionApp/blob/master/screen.jpg)
