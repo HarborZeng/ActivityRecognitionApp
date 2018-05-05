@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityRecognition</string>
+    <string name="activity">活动</string>
+    <string name="percentage">百分比</string>
+    <string name="downstairs">下楼</string>
+    <string name="jogging">慢跑</string>
+    <string name="sitting">坐</string>
+    <string name="standing">站</string>
+    <string name="upstairs">上楼</string>
+    <string name="walk">走</string>
+    <string name="activity_probably_are">目前活动可能是</string>
+</resources>
