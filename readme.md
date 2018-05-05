@@ -1,0 +1,1 @@
+[](https://github.com/HarborZeng/ActivityRecognitionApp/blob/master/screen.jpg)
